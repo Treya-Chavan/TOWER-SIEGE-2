@@ -1,2 +1,10 @@
-# TOWER-SIEGE-2
-In the game design competition in your school, you are asked to make a game related to knocking down objects.  Create a Tower Siege Game where your friends can throw a rock at a group of stacked objects and crash them and they disappear.
+
+### Features of Stage 3:
+##### On Space button pressed, player gets a second chance to play
+##### Score card is calculated 
+##### Blocks vanish on coming in contact with my slingshot
+
+
+
+
+
